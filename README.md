@@ -1,6 +1,8 @@
 # Shinobi-Scroller
 
-Sprites Are Here For You To Help Convert Them Into Dmi Format!
+Sprites Are Here For People To Help Convert Them Into Dmi Format!
+
+This Will Allow Character Adding To Go Much Faster And Smoother Then What One Person Can Do Alone!
 
 To Do This Please Follow The Template(s) Provided!
 
