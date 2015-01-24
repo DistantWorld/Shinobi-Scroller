@@ -12,3 +12,5 @@ https://github.com/DistantWorld/Shinobi-Scroller/blob/Shinboi-Scroller-Sprites/T
 Download This Gif For A Short Clip How To Put Sprites Into Dmi!
 
 https://github.com/DistantWorld/Shinobi-Scroller/blob/Shinboi-Scroller-Sprites/How%20To%20Sprite%20To%20Dmi.gif
+
+Note: South And East Are 1 Direction Aka (Right/East)  And North And West Are The Other Direction (Left/West)
